@@ -1,80 +1,916 @@
 [[CutBranching]]
 arch = "aarch64"
+git-tree-sha1 = "052534f8a521623640b9ee15048a3805cda05575"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "7f22350e9ac352991fb858aa5b73a3f93e75b34c7fc0d77d442a4597d5969f5f"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+git-tree-sha1 = "e8fdb0fcfd629558c166520f4d77eb014475204f"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "8504eee89d0284765dc96e97854e420a47fb5f1e44541b8449d9aa6cb2c37ed1"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+git-tree-sha1 = "b90ec2606ff60e3d8f8c2f3e9d4b6bdaa8bf0106"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "e2e9e4fef0f8b29a23353082d5c30d39a384041f3641865c783f923b64a98367"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+git-tree-sha1 = "5cdf4c813bb06664f661418940e8db552242de81"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "a08f0dd3c62797d185af4ff7d994e9a04c07dbe6a460d8f6deb1927a9b7000d6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+git-tree-sha1 = "081e365f7312be9b9f021f0b0ff55b609b7ac328"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "f2bfe69a36c721efa2386447fc5006febd5d048e861e2bcbff477271480dcafc"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
 git-tree-sha1 = "2930ba8d7efe4865e4d41307c44ecf4100fdf32e"
+julia_version = "1.9.0"
 os = "macos"
 
     [[CutBranching.download]]
     sha256 = "aa3dfffb966874c926c920d12f7ac5f60ee32632d8524916b4042e8dfc0e4258"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[CutBranching]]
 arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "87745c786e6678ead05eb178e6cdc4395f4e23ea"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "b5ec466a9f55b64df5178180964d71a451c244da96c5fc4cd80f03c4b5c9e5f7"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c025b012d5cfc0de52ba5ae41a8c1140006989e"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "ca2ccddde7c208c3fd0f23adf8613aaec81f9282e7295bc56275a02b53027ab3"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c65ef983f139b6922e5f26332040eba1a71af0c9"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "a754b3d2d7a1133b14d1a075e0e994dbb3d0ddbb2a5a9f78277de8398122a58d"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1adbee3a8886dacdd7f5d441080d5d525fcfbe13"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "70bbe6d29f47877e4c8f21a02217d1776d9b527a095f9570923d5b6529c85518"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1adbee3a8886dacdd7f5d441080d5d525fcfbe13"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "70bbe6d29f47877e4c8f21a02217d1776d9b527a095f9570923d5b6529c85518"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1adbee3a8886dacdd7f5d441080d5d525fcfbe13"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "70bbe6d29f47877e4c8f21a02217d1776d9b527a095f9570923d5b6529c85518"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1adbee3a8886dacdd7f5d441080d5d525fcfbe13"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "70bbe6d29f47877e4c8f21a02217d1776d9b527a095f9570923d5b6529c85518"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37e61102bd7369987f0289c86c969c8a22254819"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "5b26332f4aab0038c8a10fd3dc6306bc54f37f3e17859c6fe62e81cc6364fdbe"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b65807666ff50b20d6b3a2a77be19bd67bf6265"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "663fe66b37085621bbecc25e7d9e00a62a3a54e1eb7efb1ba5200304f912afbd"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "597369bebd30e9a4c1e83491d3bee7215406dd29"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "4d558f41fbee0b131af0dbc0d2103d057e9b37a0033c5ef8a8f69b67014f602c"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "a69521790145364e239dede3a6a73cb2e23ebed1"
+julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "34f187f4104345e52904cb1c07ed9f97789878d3156c0351c091927902f62b60"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a69521790145364e239dede3a6a73cb2e23ebed1"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "34f187f4104345e52904cb1c07ed9f97789878d3156c0351c091927902f62b60"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a69521790145364e239dede3a6a73cb2e23ebed1"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "34f187f4104345e52904cb1c07ed9f97789878d3156c0351c091927902f62b60"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a69521790145364e239dede3a6a73cb2e23ebed1"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "34f187f4104345e52904cb1c07ed9f97789878d3156c0351c091927902f62b60"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CutBranching]]
 arch = "armv6l"
 call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "344c6afeaf8aba7758166dd7d65e2c4712f26a82"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "fd3dfd299a14f158a5f751f261952c81633a7fa547fb8285920309a034f1fbb2"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "344c6afeaf8aba7758166dd7d65e2c4712f26a82"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "fd3dfd299a14f158a5f751f261952c81633a7fa547fb8285920309a034f1fbb2"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "f733d2a044b28dca351ac69247e9254c845d8eef"
+julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "fa51c6040ce893dced84aa9a975c21f901ffc65c1253fec46b169efd1af103b0"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f733d2a044b28dca351ac69247e9254c845d8eef"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "fa51c6040ce893dced84aa9a975c21f901ffc65c1253fec46b169efd1af103b0"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[CutBranching]]
 arch = "armv7l"
 call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "992272be118d951dc2b7278b85f0d9f7ea1f4301"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "41126bb18360f3b2fbb17b0203495f3ead6e7dbbf939b1ff2a8bea5a3fcbd262"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "992272be118d951dc2b7278b85f0d9f7ea1f4301"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "41126bb18360f3b2fbb17b0203495f3ead6e7dbbf939b1ff2a8bea5a3fcbd262"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "992272be118d951dc2b7278b85f0d9f7ea1f4301"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "41126bb18360f3b2fbb17b0203495f3ead6e7dbbf939b1ff2a8bea5a3fcbd262"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "f024c1126a7485bf36b5f40a52e23c79443a7538"
+julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "f4d484a1e7f7654fdaf1e3d664452801aec07feff09eda440f6bf03710f0b042"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f024c1126a7485bf36b5f40a52e23c79443a7538"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "f4d484a1e7f7654fdaf1e3d664452801aec07feff09eda440f6bf03710f0b042"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f024c1126a7485bf36b5f40a52e23c79443a7538"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "f4d484a1e7f7654fdaf1e3d664452801aec07feff09eda440f6bf03710f0b042"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[CutBranching]]
 arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ebc21e6642ed2287a46e29224d65947b56d5f32"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "7f63f47ea7dde8aaab3aca8b329ec8c01e0ab791de5e1ed0e3fd446b5cbb97e6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "386663373e488e15b0582a05bd4dfa23782f0105"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "fd8a0174e81c677aef09e06a85089222d2a6dfab21817be514bb21235e07fddc"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "34dc59e1fee8cd51953878898fa7042d31fe93b9"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "22a7eb98593ec47faa24083017ae69feb6ed0d18641485ce80ae11f580803c81"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48cafa5cb31f06d68cf370cc2c65dc1969986457"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "51d4aa0f1683be9c881f64cb4c6e3d5fa0995d33a3707e34b320d9ae1ad736ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48cafa5cb31f06d68cf370cc2c65dc1969986457"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "51d4aa0f1683be9c881f64cb4c6e3d5fa0995d33a3707e34b320d9ae1ad736ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48cafa5cb31f06d68cf370cc2c65dc1969986457"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "51d4aa0f1683be9c881f64cb4c6e3d5fa0995d33a3707e34b320d9ae1ad736ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48cafa5cb31f06d68cf370cc2c65dc1969986457"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "51d4aa0f1683be9c881f64cb4c6e3d5fa0995d33a3707e34b320d9ae1ad736ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba6f4217d0526a750e600289b2a49cee76bad33e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "ed87cb10001ba4a58c5d2fa420375e44fc5b3514f85d06a770e1d4090f799084"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "136bd338a120361291f1b34558e4bae74a02a673"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "16593895dde758bcbd2fb51ddb2dd681dcb88d4862d67f07b8d4cb31f687f784"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae3ee3f67095a4e99c2ae15cd1d780c444dda86e"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "af7533db265ca514ae28c2090af71e5e906c344a338858eeaf4ec605bb757643"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "a9cf2468174d402bd1b33e32c002def28da55847"
+julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "eb0782587d0e81fdf7d52a237b9492c1b58f3dfd94ccc1685f16985f397a08ed"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9cf2468174d402bd1b33e32c002def28da55847"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "eb0782587d0e81fdf7d52a237b9492c1b58f3dfd94ccc1685f16985f397a08ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9cf2468174d402bd1b33e32c002def28da55847"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "eb0782587d0e81fdf7d52a237b9492c1b58f3dfd94ccc1685f16985f397a08ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9cf2468174d402bd1b33e32c002def28da55847"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "eb0782587d0e81fdf7d52a237b9492c1b58f3dfd94ccc1685f16985f397a08ed"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CutBranching]]
 arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0081be9b2900ea92533d56c7d1caad59f511337d"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "407cd2101e39de01258c4896de12561855c31e0ec994f1b3382115119d832594"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "46b3ac40c1a7a01497fdd3e78143f1d3e73ee831"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "da512fae0e3747c4485d973b23e0ac68e71c5ed2d7eb47fc0d9bbcc6ceed0705"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dc83b3c81449ef89be5133fb92a37b98107eb35"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "20a1d424f8f81a3c35a05ea4dcbec5be5205ee95496bb72ac7954780d36bfcf5"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea3b153d5e2fd568d6115bdfb3c37505ee9b0fa2"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "351455fa463b5002cb4886220511075d9f40213137d1bfc00dbf9db1ef7e9d29"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea3b153d5e2fd568d6115bdfb3c37505ee9b0fa2"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "351455fa463b5002cb4886220511075d9f40213137d1bfc00dbf9db1ef7e9d29"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea3b153d5e2fd568d6115bdfb3c37505ee9b0fa2"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "351455fa463b5002cb4886220511075d9f40213137d1bfc00dbf9db1ef7e9d29"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea3b153d5e2fd568d6115bdfb3c37505ee9b0fa2"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "351455fa463b5002cb4886220511075d9f40213137d1bfc00dbf9db1ef7e9d29"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc6c5776b7b8476da8560d77c52826ac65addec2"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "16eea3663309448b3b62a1d705f5695923be7b4fe7d34ba9f28ef4b38a006604"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a492e78071ceabbff8328e604658072067ec651c"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "923c9312d89893913a7a7c59c1c6d6193a92f8f06c160959563710c2a8fb5299"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d953aeffc0b3614cc85b2315cd47550280e124c2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "289b3f16c5b060dad6744c2a3cbfd6e5747b66743e454c592c976ac21ccdd5c2"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "076bcdb41c1bc90bdb6f31fcfe999e47128a531f"
+julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "5fee66ce7beb7a5b79ec6531e0a6d9f58bfb85a227a66791d5657a9efea8f632"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "076bcdb41c1bc90bdb6f31fcfe999e47128a531f"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "5fee66ce7beb7a5b79ec6531e0a6d9f58bfb85a227a66791d5657a9efea8f632"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "076bcdb41c1bc90bdb6f31fcfe999e47128a531f"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "5fee66ce7beb7a5b79ec6531e0a6d9f58bfb85a227a66791d5657a9efea8f632"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "076bcdb41c1bc90bdb6f31fcfe999e47128a531f"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "5fee66ce7beb7a5b79ec6531e0a6d9f58bfb85a227a66791d5657a9efea8f632"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "41f88cdc99f80cd164fdd66af8b4381b440be99d"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "1f30e6c7cce2aa613271380ee26691c0b321e458929d599cd4c8600a749865b8"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "2efd3cfc45433574f319ce6641654b9ea842ae10"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "334bd04e1adc89bfc6c33f1b3a773a94f831d6ae3f4a975b8b1f28f13c85424b"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "f18220dfddb4a0e4cfb6016426f458915354103e"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "7589c4834621c9c9ee5e8ea369d6578f19f2f54847ec08c1bcbd8750d9ab2bda"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "5f5073d5e47973f6ef37117f7a196dad32fdfb8c"
+julia_version = "1.6.3"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "de3670334854b0f44d1162011dc2296cb84822534228123944e9b72f5c6d2f1d"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "13b13040ac3936278e76374c3932ffb6be253ee3"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "e8a0d9ca5bb6c35274fef674914d808513ee7c68cb3cb520cad5e6b261adb042"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "99b454ca98f92f3177432601db90a01921513f01"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[CutBranching.download]]
+    sha256 = "3c204580429ab420a3e1a0f8c18ce52e017f8bb8326b00064a0276140492bef2"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[CutBranching]]
 arch = "x86_64"
 git-tree-sha1 = "8d32ab45cad1fbb716dbcbf30bffe43c0b4c9a18"
+julia_version = "1.9.0"
 os = "macos"
 
     [[CutBranching.download]]
     sha256 = "0ad85aa7e1a8e79c1d1fe41c76fe5af5336ace031dd236783bba95a9808cda08"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[CutBranching]]
 arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "16517092e62c2926117d04400888ed7705ee9296"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "393a511044c861e2824983980f8844ebd9fabb0a1e1a8d3ce9d4ce5cde800c2a"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "46d00ce946cb0845983db9bd726917be7886161e"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "9bbc537e88381c34325d73429268184fb93eaa88473abd91353e465bc51904e7"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "808f2ef98aeba0b69ab5ba4843e58f9538ef205f"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "e29c6034e0aab9a0211adfa84022826005710f79d4507fe0b9e1153076a18c57"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00bac801aec0a9d73d540482f265160c2a0dbf6d"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "b27395826f753473a6519f1c6e8f911860ae894cbc1883093966e14cfa3ac7f6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00bac801aec0a9d73d540482f265160c2a0dbf6d"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "b27395826f753473a6519f1c6e8f911860ae894cbc1883093966e14cfa3ac7f6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00bac801aec0a9d73d540482f265160c2a0dbf6d"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "b27395826f753473a6519f1c6e8f911860ae894cbc1883093966e14cfa3ac7f6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00bac801aec0a9d73d540482f265160c2a0dbf6d"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "b27395826f753473a6519f1c6e8f911860ae894cbc1883093966e14cfa3ac7f6"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46ac906c16d714d7dc92d28b419d72ed118016f2"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "8ebb90b221ec5f1df4c7c59bec14f084aebf1a9cd4320c69fc0a0da401559b6e"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1ed58f7664bc79418dfa6961dcafa35fda8c7cd"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "04bfe135b4ba938c618189e73c211e1d7b944e1e0cbae61709eb0d4c9b6e7851"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23965e6dbb2fec15495e67346d7d186740af02ef"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "f19a648f28c4628ef9ddf69caceb4fa9db6a2f5012e887f7ff7308e2be8f9694"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "d437b311363b163da33dd91e82a3cbc8f532fd05"
+julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CutBranching.download]]
     sha256 = "abb77d2a475c35e44c8f8f9e0e9bc1ef905888fc6df01d3eaa39ab9b127bb875"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d437b311363b163da33dd91e82a3cbc8f532fd05"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "abb77d2a475c35e44c8f8f9e0e9bc1ef905888fc6df01d3eaa39ab9b127bb875"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d437b311363b163da33dd91e82a3cbc8f532fd05"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "abb77d2a475c35e44c8f8f9e0e9bc1ef905888fc6df01d3eaa39ab9b127bb875"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d437b311363b163da33dd91e82a3cbc8f532fd05"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CutBranching.download]]
+    sha256 = "abb77d2a475c35e44c8f8f9e0e9bc1ef905888fc6df01d3eaa39ab9b127bb875"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "d4382d67b7d37c045d996930875a042fc99f70f9"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "d00676dc349b40b611228e4eaef4f73e4dbab4373ac7d5105896d2a454743665"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "786653f16218838c2d2114b0dcea6a22e323ab32"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "c04eadda34e13f1694b18747086a608f543d7297d4fcd3f7de75509c9f7d2156"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "20ef4158d6939c96084c0cf1303996d425f8739b"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "4163ea5b97c18f41ebefe4a0462018c803f688dcbb71fe8968c1aba5d0dd493c"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[CutBranching]]
 arch = "x86_64"
 git-tree-sha1 = "e44d5a7dd60fc3ccb6c888982e62c0470db1a51d"
+julia_version = "1.6.3"
 os = "freebsd"
 
     [[CutBranching.download]]
     sha256 = "bb33f1c541974f83f3fd7a6fa3a761457a41b82d04e74a49b3c745bd62641e4e"
-    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.0+0/CutBranching.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "e44d5a7dd60fc3ccb6c888982e62c0470db1a51d"
+julia_version = "1.7.0"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "bb33f1c541974f83f3fd7a6fa3a761457a41b82d04e74a49b3c745bd62641e4e"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "e44d5a7dd60fc3ccb6c888982e62c0470db1a51d"
+julia_version = "1.8.2"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "bb33f1c541974f83f3fd7a6fa3a761457a41b82d04e74a49b3c745bd62641e4e"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+[[CutBranching]]
+arch = "x86_64"
+git-tree-sha1 = "e44d5a7dd60fc3ccb6c888982e62c0470db1a51d"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[CutBranching.download]]
+    sha256 = "bb33f1c541974f83f3fd7a6fa3a761457a41b82d04e74a49b3c745bd62641e4e"
+    url = "https://github.com/JuliaBinaryWrappers/CutBranching_jll.jl/releases/download/CutBranching-v0.1.1+0/CutBranching.v0.1.1.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
